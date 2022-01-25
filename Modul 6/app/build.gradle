@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.fauziyah_19104033.praktikum6"
+        applicationId "com.fawwaz_19104058.praktikum6"
         minSdk 30
         targetSdk 30
         versionCode 1
